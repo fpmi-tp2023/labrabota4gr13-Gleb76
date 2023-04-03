@@ -7,4 +7,4 @@
 int open_database(char* path, sqlite3* db);
 int process_menu_actions(sqlite3* db);
 
-#endif
+#endif PROJECT6_INTERFACE_H
